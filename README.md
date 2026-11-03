@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="assets/coding.gif" width="800" alt="Coding animation"/>
+</p>
 
-# Hi, I'm Prasad Arote 👋
+<h1 align="center">Hi, I'm Prasad Arote 👋</h1>
 
-### CSE AIML Student | Aspiring Software Developer
-
+<p align="center">
+  <b>CSE AIML Student | Aspiring Software Developer</b>
+</p>
 I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning, interested in building practical software solutions and exploring open-source technologies.
 
 I believe in learning by building, experimenting, and collaborating.
