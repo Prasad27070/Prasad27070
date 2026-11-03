@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Prasad Arote! 👋
 
-<!--
-**Prasad27070/Prasad27070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE AIML Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Artificial Intelligence and Open Source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- Java
+- C
+- Data Structures & Algorithms
+- Git & GitHub
+
+🚀 Currently exploring open-source projects and looking forward to making meaningful contributions.
+
+🎯 Goal: Learn, collaborate and grow as an open-source developer.
+
+📫 GitHub: [@Prasad27070](https://github.com/Prasad27070)
