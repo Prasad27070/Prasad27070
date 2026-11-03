@@ -50,11 +50,17 @@ I believe in learning by building, experimenting, and collaborating.
 
 ---
 
-### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad27070&show_icons=true&hide_border=true&theme=default)
+### 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad27070&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasad27070&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad27070&layout=compact&hide_border=true&theme=default&cache_seconds=86400" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad27070&theme=default&hide_border=true" />
+</p>
 
 ---
 
