@@ -49,21 +49,6 @@ I believe in learning by building, experimenting, and collaborating.
 - Collaborative software development
 
 ---
-
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasad27070&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad27070&layout=compact&hide_border=true&theme=default&cache_seconds=86400" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad27070&theme=default&hide_border=true" />
-</p>
-
----
-
 ### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prasad27070-181717?style=flat-square&logo=github)](https://github.com/Prasad27070)
